@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adcc8bd2-2696-450b-9afc-1fd92ef6c24e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/CompararAno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/CompararAnoAutorTitulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/CompararAutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/generics/GenericsExempleList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/generics/GenericsExempleMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/generics/GenericsExempleSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/generics/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/OperacoesBasicas/CarrinhoDeCompras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/OperacoesBasicas/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/OperacoesBasicas/ListaTarefa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/OperacoesBasicas/Tarefa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Ordenacao/ComparatorPorAltura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Ordenacao/OrdenacaoNumeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Ordenacao/OrdenacaoPessoas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Ordenacao/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Pesquisa/CatalogoLivros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Pesquisa/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Pesquisa/SomaNumeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/OperacoesBasicas/AgendaContatos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/OperacoesBasicas/Dicionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/AgendaEventos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/ComparatorPorAutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/ComparatorPorPreco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/Evento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/LivrariaOnline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Pesquisa/ContagemPalavras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Pesquisa/EstoqueProdutos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Pesquisa/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/OperacoesBasicas/ConjuntoConvidados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/OperacoesBasicas/ConjuntoPalavrasUnicas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/OperacoesBasicas/Convidado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/CadastroProdutos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/ComparatorNota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/ComparatorPorPreco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/GerenciadorAlunos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Pesquisa/AgendaContatos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Pesquisa/Contato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Pesquisa/ListaTarefas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Pesquisa/Tarefa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2gVRoODJgKqHSRiyR4DJqAqQxjc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adcc8bd2-2696-450b-9afc-1fd92ef6c24e" name="Changes" comment="" />
+      <created>1715780935238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715780935238</updated>
+    </task>
+    <servers />
+  </component>
+</project>
