@@ -1,4 +1,4 @@
-package main.java.list.OperacoesBasicas;
+package list.OperacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -46,6 +46,8 @@ public class ListaTarefa {
     ListaTarefa listaTarefa = new ListaTarefa();
 
     // Adicionando tarefas à lista
+    listaTarefa.adicionarTarefa("Trabalhar");
+    listaTarefa.adicionarTarefa("Trabalhar");
     listaTarefa.adicionarTarefa("Comprar leite");
     listaTarefa.adicionarTarefa("Estudar para o exame");
     listaTarefa.adicionarTarefa("Fazer exercícios");

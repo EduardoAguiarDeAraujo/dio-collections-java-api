@@ -6,56 +6,41 @@
   <component name="ChangeListManager">
     <list default="true" id="adcc8bd2-2696-450b-9afc-1fd92ef6c24e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/CompararAno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/CompararAnoAutorTitulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/CompararAutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/Livro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/comparableXcomparator/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/generics/GenericsExempleList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/generics/GenericsExempleMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/generics/GenericsExempleSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/generics/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/OperacoesBasicas/CarrinhoDeCompras.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/OperacoesBasicas/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/OperacoesBasicas/ListaTarefa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/OperacoesBasicas/Tarefa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Ordenacao/ComparatorPorAltura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Ordenacao/OrdenacaoNumeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Ordenacao/OrdenacaoPessoas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Ordenacao/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Pesquisa/CatalogoLivros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Pesquisa/Livro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/Pesquisa/SomaNumeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/list/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/OperacoesBasicas/AgendaContatos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/OperacoesBasicas/Dicionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/AgendaEventos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/ComparatorPorAutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/ComparatorPorPreco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/Evento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/LivrariaOnline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Ordenacao/Livro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Pesquisa/ContagemPalavras.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Pesquisa/EstoqueProdutos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/Pesquisa/Produto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/map/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/OperacoesBasicas/ConjuntoConvidados.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/OperacoesBasicas/ConjuntoPalavrasUnicas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/OperacoesBasicas/Convidado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/CadastroProdutos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/ComparatorNota.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/ComparatorPorPreco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/GerenciadorAlunos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Ordenacao/Produto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Pesquisa/AgendaContatos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Pesquisa/Contato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Pesquisa/ListaTarefas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/Pesquisa/Tarefa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections-java-api-2023/main/java/set/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comparableXcomparator/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comparableXcomparator/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comparableXcomparator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comparableXcomparator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/GenericsExempleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/GenericsExempleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/GenericsExempleMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/GenericsExempleMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/GenericsExempleSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/GenericsExempleSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/CarrinhoDeCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/CarrinhoDeCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/ListaTarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/ListaTarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/Tarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/Ordenacao/OrdenacaoNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/Ordenacao/OrdenacaoNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/Ordenacao/OrdenacaoPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/Ordenacao/OrdenacaoPessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/Ordenacao/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/Ordenacao/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/Pesquisa/CatalogoLivros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/Pesquisa/CatalogoLivros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/Pesquisa/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/Pesquisa/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/Pesquisa/SomaNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/Pesquisa/SomaNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/map/OperacoesBasicas/AgendaContatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/OperacoesBasicas/AgendaContatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/map/OperacoesBasicas/Dicionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/OperacoesBasicas/Dicionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/map/Ordenacao/AgendaEventos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/Ordenacao/AgendaEventos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/map/Ordenacao/Evento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/Ordenacao/Evento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/map/Ordenacao/LivrariaOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/Ordenacao/LivrariaOnline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/map/Ordenacao/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/Ordenacao/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/map/Pesquisa/ContagemPalavras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/Pesquisa/ContagemPalavras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/map/Pesquisa/EstoqueProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/Pesquisa/EstoqueProdutos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/map/Pesquisa/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/map/Pesquisa/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoConvidados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoConvidados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoPalavrasUnicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoPalavrasUnicas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/Convidado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/Convidado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/Ordenacao/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/Ordenacao/CadastroProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/CadastroProdutos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/Ordenacao/GerenciadorAlunos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/GerenciadorAlunos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/Ordenacao/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/Pesquisa/AgendaContatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/Pesquisa/AgendaContatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/Pesquisa/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/Pesquisa/Contato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/Pesquisa/ListaTarefas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/Pesquisa/ListaTarefas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/Pesquisa/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/Pesquisa/Tarefa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +50,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2gVRoODJgKqHSRiyR4DJqAqQxjc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -75,11 +60,96 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgendaContatos.executor": "Run",
+    "Application.AgendaEventos.executor": "Run",
+    "Application.CadastroProdutos.executor": "Run",
+    "Application.CatalogoLivros.executor": "Run",
+    "Application.ListaTarefa.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OrdenacaoPessoas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Workspace/DIO/collections-java-api-2023/src/main/java/comparableXcomparator/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.CadastroProdutos">
+    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Pesquisa.AgendaContatos" />
+      <module name="collections-java-api-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.Pesquisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgendaEventos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.Ordenacao.AgendaEventos" />
+      <module name="collections-java-api-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.Ordenacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Ordenacao.CadastroProdutos" />
+      <module name="collections-java-api-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.Ordenacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatalogoLivros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Pesquisa.CatalogoLivros" />
+      <module name="collections-java-api-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.Pesquisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdenacaoPessoas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Ordenacao.OrdenacaoPessoas" />
+      <module name="collections-java-api-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.Ordenacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CadastroProdutos" />
+        <item itemvalue="Application.AgendaContatos" />
+        <item itemvalue="Application.AgendaEventos" />
+        <item itemvalue="Application.OrdenacaoPessoas" />
+        <item itemvalue="Application.CatalogoLivros" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
